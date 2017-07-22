@@ -1,12 +1,12 @@
 {
   "_class": "sharedStyle",
-  "do_objectID": "9DDA2606-AF76-4B1C-B2C8-4FC244CDD845",
-  "name": "Testing new text",
+  "do_objectID": "4054C318-130E-4FF0-8A03-DC6038B8A504",
+  "name": "Do styles work? Style 2",
   "value": {
     "_class": "style",
     "endDecorationType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "9DDA2606-AF76-4B1C-B2C8-4FC244CDD845",
+    "sharedObjectID": "4054C318-130E-4FF0-8A03-DC6038B8A504",
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
@@ -90,7 +90,7 @@
                     "UID": 2
                   },
                   "NSRGB": {
-                    "data": "0 0 0\u0000",
+                    "data": "0.1775848899 0.1690704528 0.2873086735\u0000",
                     "type": "Buffer"
                   }
                 },

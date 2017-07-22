@@ -1,12 +1,12 @@
 {
   "_class": "sharedStyle",
-  "do_objectID": "1DA41D23-06DD-4543-A0F5-378E6144B683",
-  "name": "New Text Style",
+  "do_objectID": "EEB65E84-9CF7-4270-8E10-A6431AB8893F",
+  "name": "Do styles work? Style",
   "value": {
     "_class": "style",
     "endDecorationType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "1DA41D23-06DD-4543-A0F5-378E6144B683",
+    "sharedObjectID": "EEB65E84-9CF7-4270-8E10-A6431AB8893F",
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
@@ -48,7 +48,7 @@
                 },
                 "NSFontSizeAttribute",
                 "NSFontNameAttribute",
-                21,
+                64,
                 "Catamaran-Regular",
                 {
                   "$classes": [
@@ -90,7 +90,7 @@
                     "UID": 2
                   },
                   "NSRGB": {
-                    "data": "0.5143215206 0.5680746529 0.7662893282\u0000",
+                    "data": "0.1126792948 0.6547619048 0.1193080224\u0000",
                     "type": "Buffer"
                   }
                 },
